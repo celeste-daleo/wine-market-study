@@ -5,8 +5,8 @@ The client, Domaine des Croix, is looking to define the price of its wine bottle
 **The objective will be to make a presentation of the market analysis and the price you recommend for the client's wines.**
 
 ## Data sets
-- Dataset of 130k wines: https://github.com/murpi/wilddata/raw/master/wine.zip
-- Dataset of the 14 Domaine des Croix wines: https://github.com/murpi/wilddata/raw/master/domaine_des_croix.csv
+- [Dataset American wine market](https://github.com/murpi/wilddata/raw/master/wine.zip)
+- [Dataset American wine market](https://github.com/murpi/wilddata/raw/master/domaine_des_croix.csv)
 
 
 ## Expected deliverables
