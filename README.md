@@ -23,7 +23,7 @@ The client would like a presentation containing at least these elements:
   - Distribution of number of wines per country (grouping countries by quartile according to the number of wines produced)
   - Top producer countries ranked by score
 - By variety:
-  - Average score, **price and number** of wines produced by grape variety
+  - Median score, price and total number of wines produced by grape variety
   - Top ranked grape varieties
   - Most produced varieties
   - Most expensive varieties
