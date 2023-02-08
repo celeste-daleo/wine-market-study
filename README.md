@@ -17,16 +17,15 @@ The client would like a presentation containing at least these elements:
 - Presentation of the technical part and the code created for this analysis
 - Answer to the business question: price proposal or price range to the client to be correctly positioned against the competition on the American market
 
-## Market analysis
-### KPI
+## Market analysis: KPI
 - By country:
-  - Distribution of number of wines per country (grouping countries by quartile according to the number of wines produced)
+  - Distribution of number of wines per country (all)
+  - Distribution of number of wines per country (top producers)
   - Top producer countries ranked by score
 - By variety:
-  - Median score, price and total number of wines produced by grape variety
-  - Top ranked grape varieties
-  - Most produced varieties
-  - Most expensive varieties
+  - Total amount of wines produced by grape varieties (most produced)
+  - Median score by grape variety (most produced)
+  - Median price by grape variety (most produced)
 
 - Time series:
   - Number of wines produced by year (top 10 most produced grape varieties)
